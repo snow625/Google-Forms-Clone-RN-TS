@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Google-Forms-Clone-RN-TS",
+    "slug": "Google-Forms-Clone-RN-TS"
+  }
+}
